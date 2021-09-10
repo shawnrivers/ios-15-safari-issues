@@ -1,0 +1,12 @@
+.home-link {
+  color: rgb(69, 160, 245);
+}
+
+.home-links-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-links-container > * {
+  margin-bottom: 1rem;
+}
